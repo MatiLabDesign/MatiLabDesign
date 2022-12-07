@@ -15,7 +15,7 @@ Java > spring > thymeleaf </br>
 <h4>También tengo mucho conocimiento en el area de Diseño, Diseño Ux|Ui, Visual Designer.</h4> </br>
 
 
-Para realizar Aplicaciones más eficientes utilizo <h2>React</h2>
+Para realizar Aplicaciones más eficientes utilizo <h4>React</h4>
 
 
 Los invito a clonar los proyectos y realizar una prueba en su compu </br>
