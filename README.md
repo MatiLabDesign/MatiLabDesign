@@ -9,13 +9,13 @@ Java > spring > thymeleaf </br>
 
 ![me](https://i.blogs.es/3818bd/programacion/450_1000.jpg)
 
-Aqui voy subiendo todo lo que programo a modo de ejemplo de las tecnologías que domino.
+Aqui voy subiendo todo lo que programo a modo de ejemplo de las tecnologías que domino. </br>
 Tambien tengo mucho conocimiento en el area de Diseño, Diseño Ux|Ui, Visual Designer.
 
 Para realizar Aplicaciones más eficientes utilizo React
 
 
-Los invito a clonar los proyectos y realizar una prueba en su compu
-Gracias!!!
+Los invito a clonar los proyectos y realizar una prueba en su compu </br>
+Gracias!!! </br>
 Saludos
 
