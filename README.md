@@ -18,7 +18,7 @@ Para realizar Aplicaciones más eficientes utilizo React
 Los invito a clonar los proyectos y realizar una prueba en su compu </br>
 https://www.linkedin.com/in/matiaslabarba/ </br>
 https://www.instagram.com/matilabdigital/ </br>
-https://www.youtube.com/channel/UC6nVcqR6-ezb9oDxz9OlAOw </br>
+https://www.youtube.com/@matilabdesign/ </br>
 Gracias!!! </br>
 Saludos
 
