@@ -12,13 +12,13 @@ Js > Ts > React </br>
 Java > spring > thymeleaf </br>
 
 <h4>Aqui voy subiendo todo lo que programo a modo de ejemplo de las tecnologías que domino.</h4> </br>
-<h4>También tengo mucho conocimiento en el area de Diseño, Diseño Ux|Ui, Visual Designer.</h4> </br>
+<h5>También tengo mucho conocimiento en el area de Diseño, Diseño Ux|Ui, Visual Designer.</h5> </br>
 
 
-Para realizar Aplicaciones más eficientes utilizo <h4>React</h4>
+Para realizar Aplicaciones más eficientes utilizo React
 
 
-Los invito a clonar los proyectos y realizar una prueba en su compu </br>
+Los invito a clonar los proyectos y realizar una prueba en su compu </br> </br>
 https://www.linkedin.com/in/matiaslabarba/ </br>
 https://www.instagram.com/matilabdigital/ </br>
 https://www.youtube.com/@matilabdesign/ </br>
