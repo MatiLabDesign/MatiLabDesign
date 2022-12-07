@@ -2,10 +2,10 @@
 
 Tecnologias:
 
-Html
-Css > bootstarp > tailwind
-Js > Ts > React
-Java > spring > thymeleaf
+Html </br>
+Css > bootstarp > tailwind </br>
+Js > Ts > React </br>
+Java > spring > thymeleaf </br>
 
 ![me](https://i.blogs.es/3818bd/programacion/450_1000.jpg)
 
