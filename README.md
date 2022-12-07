@@ -2,7 +2,8 @@
 
 ![fondoGithub](https://user-images.githubusercontent.com/81089218/206312961-04798610-bee6-4f82-863f-576faf147523.jpg)
 
-Tecnologias:
+<h2>Tecnologias:</h2>
+
 
 Html </br>
 Css > bootstarp > tailwind </br>
