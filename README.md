@@ -2,7 +2,8 @@
 
 ![fondoGithub](https://user-images.githubusercontent.com/81089218/206312961-04798610-bee6-4f82-863f-576faf147523.jpg)
 
-<h2>Tecnologias:</h2>
+<h3>Tecnologías:</h3>
+<h3></h3>
 
 
 Html </br>
@@ -10,8 +11,9 @@ Css > bootstarp > tailwind </br>
 Js > Ts > React </br>
 Java > spring > thymeleaf </br>
 
-Aqui voy subiendo todo lo que programo a modo de ejemplo de las tecnologías que domino. </br>
-Tambien tengo mucho conocimiento en el area de Diseño, Diseño Ux|Ui, Visual Designer.
+<h4>Aqui voy subiendo todo lo que programo a modo de ejemplo de las tecnologías que domino.</h4> </br>
+<h4>Tambien tengo mucho conocimiento en el area de Diseño, Diseño Ux|Ui, Visual Designer.</h4> </br>
+
 
 Para realizar Aplicaciones más eficientes utilizo React
 
