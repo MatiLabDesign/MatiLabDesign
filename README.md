@@ -11,7 +11,7 @@ Css > bootstarp > tailwind </br>
 Js > Ts > React </br>
 Java > spring > thymeleaf </br>
 
-<h4>Aqui voy subiendo todo lo que programo a modo de ejemplo de las tecnologías que domino.</h4> </br>
+<h4>Aqui voy subiendo desarrollos realizados con las tecnologías que domino.</h4> </br>
 <h5>También tengo mucho conocimiento en el area de Diseño, Diseño Ux|Ui, Visual Designer.</h5> </br>
 
 
