@@ -7,7 +7,7 @@
 
 
 Html </br>
-Css > bootstarp > tailwind </br>
+Css > bootstrap > tailwind </br>
 Js > Ts > React </br>
 Java > spring > thymeleaf </br>
 
