@@ -11,15 +11,17 @@ Css > Sass > bootstrap > tailwind </br>
 Js > Ts > React </br>
 Java > spring > MVC
 Thymeleaf </br>
+Git Control de versiones
 
-<h4>------</h4> </br>
-<h5>------</h5> </br>
+<h4></h4> </br>
+<h5></h5> </br>
 
 </br> </br>
+RRSS
 https://www.linkedin.com/in/matiaslabarba/ </br>
 https://www.instagram.com/matilabdigital/ </br>
 https://www.youtube.com/@matilabdesign/ </br>
 https://www.behance.net/matilab/ </br>
----------- </br>
+</br>
 
 
