@@ -8,7 +8,7 @@
 
 Html </br>
 Css > Sass > bootstrap > tailwind </br>
-Js > Ts > React </br>
+Js > Ts > React > Angular </br>
 Java > spring > MVC
 Thymeleaf </br>
 Git Control de versiones
