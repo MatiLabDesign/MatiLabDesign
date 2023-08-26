@@ -2,27 +2,24 @@
 
 ![fondoGithub](https://user-images.githubusercontent.com/81089218/206312961-04798610-bee6-4f82-863f-576faf147523.jpg)
 
-<h3>Tecnologías:</h3>
+<h3>FRONTEND DEVELOPER</h3>
 <h3></h3>
 
 
 Html </br>
-Css > bootstrap > tailwind </br>
+Css > Sass > bootstrap > tailwind </br>
 Js > Ts > React </br>
-Java > spring > thymeleaf </br>
+Java > spring > MVC
+Thymeleaf </br>
 
-<h4>Aqui voy subiendo desarrollos realizados con las tecnologías que domino.</h4> </br>
-<h5>También tengo mucho conocimiento en el area de Diseño, Diseño Ux|Ui, Visual Designer.</h5> </br>
+<h4>------</h4> </br>
+<h5>------</h5> </br>
 
-
-Para realizar Aplicaciones más eficientes utilizo React
-
-
-Los invito a clonar los proyectos y realizar una prueba en su compu </br> </br>
+</br> </br>
 https://www.linkedin.com/in/matiaslabarba/ </br>
 https://www.instagram.com/matilabdigital/ </br>
 https://www.youtube.com/@matilabdesign/ </br>
 https://www.behance.net/matilab/ </br>
-Gracias!!! </br>
-Saludos
+---------- </br>
+
 
